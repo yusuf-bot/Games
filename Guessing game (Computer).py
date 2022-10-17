@@ -1,3 +1,4 @@
+import random
 def comp_guess(low,high):
     feedback=''
     while feedback!='c' :
